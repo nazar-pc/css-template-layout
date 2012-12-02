@@ -17,7 +17,7 @@ I'm not sure that this version corresponds to current W3C version but it works f
 Examples of usage may be found on original project page, I'm using it in such way:
 
 	/**
-	* Do not show all transformations for user, because it may be confused
+	* Do not show all transformations for user
 	*/
 	var  body = $('#body');
 	body.css(
